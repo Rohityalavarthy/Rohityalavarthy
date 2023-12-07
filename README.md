@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
-<h3 align="center">An AI and NLP researcher studying in BITS Pilani, India</h3>
+<h3 align="center">An AGI and Mixed Criticality researcher studying in BITS Pilani, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityalavarthy&label=Profile%20views&color=0e75b6&style=flat" alt="rohityalavarthy" /> </p>
 
