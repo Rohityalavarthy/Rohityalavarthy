@@ -29,8 +29,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn]](https://linkedin.com/in/rohityalavarthy)  
-[![Email]](mailto:rohity.alavarthy@example.com)
+[[LinkedIn]](https://linkedin.com/in/rohityalavarthy)  
+[[Email]](mailto:rohity.alavarthy@example.com)
 
 ---
 <!--
