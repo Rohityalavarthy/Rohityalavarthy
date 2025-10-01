@@ -29,8 +29,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rohityalavarthy)  
-[![Email](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](mailto:rohity.alavarthy@example.com)
+[![LinkedIn]](https://linkedin.com/in/rohityalavarthy)  
+[![Email]](mailto:rohity.alavarthy@example.com)
 
 ---
 <!--
