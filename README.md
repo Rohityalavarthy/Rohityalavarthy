@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
-<h3 align="center">AI Researcher & Data Scientist with a track record for solving pressing business problems </h3>
+<h3 align="center">Passionate about building end-to-end intelligent systems that see, reason, and act. Proven track record designing and deploying AI Agents, multimodal LLM integrations, and scalable cloud pipelines. Skilled in NLP, Deep Learning, and AI explainability. Always architecting robust AI solutions—from frontend interfaces to backend services and custom ML engines. Let’s innovate at the intersection of research and production.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityalavarthy&label=Profile%20views&color=0e75b6&style=flat" alt="rohityalavarthy" /> </p>
 
