@@ -1,12 +1,38 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
-<h3 align="center">Passionate about building end-to-end intelligent systems that see, reason, and act. Proven track record designing and deploying AI Agents, multimodal LLM integrations, and scalable cloud pipelines. Skilled in NLP, Deep Learning, and AI explainability. Always architecting robust AI solutions—from frontend interfaces to backend services and custom ML engines. Let’s innovate at the intersection of research and production.
+<h3 align="center">AI/ML Engineer & Applied Scientist | End-to-End Intelligent Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityalavarthy&label=Profile%20views&color=0e75b6&style=flat" alt="rohityalavarthy" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohityalavarthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohityalavarthy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rohityalavarthy"><img src="https://komarev.com/ghpvc/?username=rohityalavarthy&style=flat-square" alt="Profile views"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 💼 About Me
+- Building **full-stack AI systems**: frontend, backend & custom ML engines  
+- Expert in **LangGraph agents**, **AWS Bedrock**, **multimodal LLMs**, **MCP**  
+- Passionate about **AI explainability**, **AI agents**, **scalable pipelines**
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rohityalavarthy)  
+[![Email](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](mailto:rohity.alavarthy@example.com)
+
+---
+<!--
+**rohityalavarthy/rohityalavarthy** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
