@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
 <h3 align="center">AI/ML Engineer & Applied Scientist | End-to-End Intelligent Systems</h3>
 
-<p align="center">
-  <a href="https://github.com/rohityalavarthy"><img src="https://komarev.com/ghpvc/?username=rohityalavarthy&style=flat-square"></a>
-</p>
 
 ---
 
