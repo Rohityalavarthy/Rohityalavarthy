@@ -8,8 +8,8 @@
 ---
 
 ## 💼 About Me
-- Building **full-stack AI systems**: frontend, backend & custom ML engines  
-- Expert in **LangGraph agents**, **AWS Bedrock**, **multimodal LLMs**, **MCP**  
+- Building **AI systems** 
+- Proficient in **LangGraph agents**, **AWS Bedrock**, **multimodal LLMs**, **MCP**  
 - Passionate about **AI explainability**, **AI agents**, **scalable pipelines**
 
 ## 💻 Tech Stack
