@@ -7,7 +7,7 @@
 ## 💼 About Me
 - Building **AI systems** 
 - Proficient in **LangGraph agents**, **AWS Bedrock**, **multimodal LLMs**, **MCP**  
-- Passionate about **AI explainability**, **AI agents**, **scalable pipelines**
+- Passionate about **AI Infra**, **AI agents**, **Efficient ML**
 
 ## 💻 Tech Stack
 
