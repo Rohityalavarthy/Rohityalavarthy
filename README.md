@@ -5,7 +5,7 @@
 ---
 
 ## 💼 About Me
-- Building **AI systems** 
+- Building **end to end efficient AI systems** 
 - Proficient in **LangGraph agents**, **AWS Bedrock**, **multimodal LLMs**, **MCP**  
 - Passionate about **AI Infra**, **AI agents**, **Efficient ML**
 
