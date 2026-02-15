@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
-<h3 align="center">AI/ML Engineer & Applied Scientist | End-to-End Intelligent Systems</h3>
+<h3 align="center">Applied AI Engineer| End-to-End Intelligent Systems</h3>
 
 
 ---
