@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
 <h3 align="center">Applied AI Engineer| End-to-End Intelligent Systems</h3>
 
-
----
-
-## 💼 About Me
-- Building **end to end efficient AI systems** 
-- Proficient in **LangGraph agents**, **AWS Bedrock**, **multimodal LLMs**, **MCP**  
-- Passionate about **AI Infra**, **AI agents**, **Efficient ML**
-
 ## 💻 Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
