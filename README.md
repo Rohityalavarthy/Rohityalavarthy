@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Yalavarthy</h1>
-<h3 align="center">Applied AI Engineer| End-to-End Intelligent Systems</h3>
+<h3 align="center">AI Engineer · LLM Systems · Prompt Intelligence</h3>
 
-## 💻 Tech Stack
+---
+
+I build end-to-end AI systems with a focus on large language models — from prompt architecture and evaluation to production deployment. Currently exploring LLM interpretability and developer tooling for AI engineers.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -14,12 +20,10 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect
 
-[[LinkedIn]](https://linkedin.com/in/rohityalavarthy)  
-[[Email]](mailto:rohity.alavarthy@example.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Yalavarthy-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rohityalavarthy)
+[![Email](https://img.shields.io/badge/Email-rohity.alavarthy%40example.com-D14836?style=flat&logo=gmail)](mailto:rohity.alavarthy@example.com)
 <!--
 **rohityalavarthy/rohityalavarthy** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
