@@ -3,7 +3,7 @@
 
 ---
 
-I build and ship production AI systems - currently focused on agentic workflows, RAG pipelines, and LLM tooling. I like working close to the engineering side of AI, where the interesting problems are.
+I build and ship production AI systems - currently focused on agentic workflows, RAG pipelines, and LLM tooling. I like working close to the engineering side of AI as well as explainability, where the interesting problems are.
 
 ---
 
